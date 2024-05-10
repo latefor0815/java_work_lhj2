@@ -39,6 +39,7 @@ public class Main extends JFrame {
 		JTextField emailField = new JTextField(15);
 		JLabel passwordLabel = new JLabel("비밀번호:");
 		JPasswordField passwordField = new JPasswordField(15);
+		//비밀번호 암호화해버리기
 
 		gbc.gridx = 0;
 		gbc.gridy = 0;

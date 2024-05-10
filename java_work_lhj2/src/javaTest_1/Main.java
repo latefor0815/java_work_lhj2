@@ -1,5 +1,5 @@
 package javaTest_1;
-
+//여기봐야해요 자바 구현
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.Insets;
